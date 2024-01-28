@@ -1,4 +1,11 @@
-### Hi there 👋
+👋 Hi, I'm Mahesh kalluri 
+
+👀 I’m a Full-Stack developer with a background in the Microsoft Tech-Stack, accumulating over 10 years of experience across various companies.
+
+🌱 Currently learning ML.NET, Gen AI and Python.
+
+📫 Feel free to drop by via email (kalluri53.mahesh@gmail.com)
+ 
 
 <!--
 **KalluriM/KalluriM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
